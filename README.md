@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jayati Gupta</h1>
-<h3 align="center">Frontend Developer </h3>
-<h3 align="center">Backend Developer </h3>
 
+<h1 align="center">Hi 👋, I'm Jayati Gupta</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Enthusiast;Frontend+Developer;%20%20Web+Development|%20Always%20learning%20new%20things&center=true&width=580&height=45"></a>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi260&label=Profile%20views&color=0e75b6&style=flat" alt="khushi260" /> </p>
 
 - 🔭 I’m currently learning **Backend Development**
 
@@ -27,3 +28,32 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayati10&show_icons=true&locale=en" alt="jayati10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayati10&" alt="jayati10" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
