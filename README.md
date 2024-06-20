@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jayati Gupta</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayati10" alt="jayati10" /></a> </p>
-
 - 🔭 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **some amazing projects**
