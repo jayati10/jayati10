@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayati Gupta</h1>
-<h3 align="center">Frontend Developer backend developer</h3>
+<h3 align="center">Frontend Developer </h3>
+<h3 align="center">Backend Developer </h3>
+
 
 - 🔭 I’m currently learning **Backend Development**
 
