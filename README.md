@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayati Gupta</h1>
+<h3 align="center">Frontend Developer backend developer</h3>
+
 - 🔭 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **some amazing projects**
